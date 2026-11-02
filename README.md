@@ -1,11 +1,11 @@
 # Hi, I'm Radhe
 
 <p align="center">
-  <a href="https://github.com/radhepa/Catching-Days"><img src="https://raw.githubusercontent.com/radhepa/Catching-Days/main/docs/images/toads/tabi.svg" width="88" height="88" alt="Tabi from Catching Days"></a>
+  <a href="https://github.com/radhepa/Catching-Days"><img src="https://raw.githubusercontent.com/radhepa/Catching-Days/main/docs/images/toads/tabi.svg" width="88" alt="Tabi from Catching Days"></a>
   &nbsp;
-  <a href="https://github.com/radhepa/FitPip"><img src="https://raw.githubusercontent.com/radhepa/FitPip/main/docs/images/pip-wave.png" width="112" height="112" alt="Pip from FitPip, waving hello"></a>
+  <a href="https://github.com/radhepa/FitPip"><img src="https://raw.githubusercontent.com/radhepa/FitPip/main/docs/images/pip-wave.png" width="112" alt="Pip from FitPip, waving hello"></a>
   &nbsp;
-  <a href="https://github.com/radhepa/Catching-Days"><img src="https://raw.githubusercontent.com/radhepa/Catching-Days/main/docs/images/toads/hasu.svg" width="88" height="88" alt="Hasu from Catching Days"></a>
+  <a href="https://github.com/radhepa/Catching-Days"><img src="https://raw.githubusercontent.com/radhepa/Catching-Days/main/docs/images/toads/hasu.svg" width="88" alt="Hasu from Catching Days"></a>
 </p>
 
 I make games, apps, mods, and the occasional engineering experiment because I enjoy bringing ideas to life. Usually, a project starts with something I'd love to use, a world I'd like to spend time in, or a small problem that would be more fun to solve with a little imagination.
@@ -13,6 +13,16 @@ I make games, apps, mods, and the occasional engineering experiment because I en
 Building these projects has given me a reason to try unfamiliar tools, work through problems, and give more of my ideas a chance. Along the way, I've been learning the technical skills behind them: reading code, understanding how systems fit together, debugging, testing, and making better decisions about what a project actually needs.
 
 The process itself is a big part of why I keep coming back. I like seeing a character come to life, finally understanding a bug, or getting a tiny detail to feel right. These projects are things I want to exist and enjoy spending my time on.
+
+## How I build with AI
+
+I use AI extensively in my workflow, from exploring an idea to building, debugging, and learning as I go. It's helped me bring projects I used to only daydream about into the world, and experimenting with how to work well with these tools has become something I enjoy in its own right.
+
+- **Claude Code** is my main coding assistant, and I also use **Codex** across my projects.
+- I've experimented with recent **DeepSeek** and **Qwen** models, exploring how different models fit different tasks.
+- I've also experimented with **local models**, alongside the hosted tools I use day to day.
+
+I'm developing practical AI engineering skills by improving the workflow itself: breaking tasks into clear steps, giving models useful project context, refining prompts and instructions, and building feedback loops around testing, code review, and debugging. I'm learning how to choose tools for the task, catch mistakes, and make the process more efficient and reliable. There's a lot I still want to understand, and my projects give me a reason to keep experimenting.
 
 ## A few things I've been making
 
@@ -31,11 +41,11 @@ The process itself is a big part of why I keep coming back. I like seeing a char
 ## What I'm learning along the way
 
 <p align="center">
-  <a href="https://github.com/radhepa/Catching-Days"><img src="https://raw.githubusercontent.com/radhepa/Catching-Days/main/docs/images/toads/sumi.svg" width="80" height="80" alt="Sumi from Catching Days"></a>
+  <a href="https://github.com/radhepa/Catching-Days"><img src="https://raw.githubusercontent.com/radhepa/Catching-Days/main/docs/images/toads/sumi.svg" width="80" alt="Sumi from Catching Days"></a>
   &nbsp;
-  <a href="https://github.com/radhepa/Catching-Days"><img src="https://raw.githubusercontent.com/radhepa/Catching-Days/main/docs/images/toads/mame.svg" width="80" height="80" alt="Mame from Catching Days"></a>
+  <a href="https://github.com/radhepa/Catching-Days"><img src="https://raw.githubusercontent.com/radhepa/Catching-Days/main/docs/images/toads/mame.svg" width="80" alt="Mame from Catching Days"></a>
   &nbsp;
-  <a href="https://github.com/radhepa/Catching-Days"><img src="https://raw.githubusercontent.com/radhepa/Catching-Days/main/docs/images/toads/oto.svg" width="80" height="80" alt="Oto from Catching Days"></a>
+  <a href="https://github.com/radhepa/Catching-Days"><img src="https://raw.githubusercontent.com/radhepa/Catching-Days/main/docs/images/toads/oto.svg" width="80" alt="Oto from Catching Days"></a>
 </p>
 
 My projects have given me hands-on practice with **C, Python, Java, JavaScript, and TypeScript**; web and mobile apps with **React, React Native, and Expo**; and 3D worlds and assets with **Three.js and Blender**. I've also been working with local storage and database sync, browser extensions, Minecraft's Fabric tools, and engineering tools like **SPICE and KiCad**.
@@ -45,11 +55,11 @@ I'm learning to check my work, too: writing tests, trying the actual user experi
 I like making things that are kind to the person using them: room to make mistakes, encouragement to try again, and space for rest. If something here helps someone learn, makes an ordinary day a little easier, or simply makes them smile, I'm happy to have made it.
 
 <p align="center">
-  <a href="https://github.com/radhepa/Catching-Days"><img src="https://raw.githubusercontent.com/radhepa/Catching-Days/main/docs/images/toads/hotaru.svg" width="52" height="52" alt="Hotaru from Catching Days"></a>
-  <a href="https://github.com/radhepa/Catching-Days"><img src="https://raw.githubusercontent.com/radhepa/Catching-Days/main/docs/images/toads/ame.svg" width="52" height="52" alt="Ame from Catching Days"></a>
-  <a href="https://github.com/radhepa/FitPip"><img src="https://raw.githubusercontent.com/radhepa/FitPip/main/docs/images/pip-love.png" width="90" height="90" alt="Pip from FitPip, sharing a little love"></a>
-  <a href="https://github.com/radhepa/Catching-Days"><img src="https://raw.githubusercontent.com/radhepa/Catching-Days/main/docs/images/toads/kuri.svg" width="52" height="52" alt="Kuri from Catching Days"></a>
-  <a href="https://github.com/radhepa/Catching-Days"><img src="https://raw.githubusercontent.com/radhepa/Catching-Days/main/docs/images/toads/neri.svg" width="52" height="52" alt="Neri from Catching Days"></a>
+  <a href="https://github.com/radhepa/Catching-Days"><img src="https://raw.githubusercontent.com/radhepa/Catching-Days/main/docs/images/toads/hotaru.svg" width="52" alt="Hotaru from Catching Days"></a>
+  <a href="https://github.com/radhepa/Catching-Days"><img src="https://raw.githubusercontent.com/radhepa/Catching-Days/main/docs/images/toads/ame.svg" width="52" alt="Ame from Catching Days"></a>
+  <a href="https://github.com/radhepa/FitPip"><img src="https://raw.githubusercontent.com/radhepa/FitPip/main/docs/images/pip-love.png" width="90" alt="Pip from FitPip, sharing a little love"></a>
+  <a href="https://github.com/radhepa/Catching-Days"><img src="https://raw.githubusercontent.com/radhepa/Catching-Days/main/docs/images/toads/kuri.svg" width="52" alt="Kuri from Catching Days"></a>
+  <a href="https://github.com/radhepa/Catching-Days"><img src="https://raw.githubusercontent.com/radhepa/Catching-Days/main/docs/images/toads/neri.svg" width="52" alt="Neri from Catching Days"></a>
 </p>
 
 Thanks for stopping by. I hope you find something here that feels fun.
